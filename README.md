@@ -35,6 +35,13 @@ The primary goal of this project is to provide a simple and efficient tool for s
   - Enter time: `15:00`
   - Enter message: `Meeting with team`
   - Output: Reminder set for `2024-07-20 15:00` with message `Meeting with team`
+ 
+## Instructions
+1. **First set Date**: Enter the date for the reminder.
+2. **Then set Time**: Enter the time for the reminder.
+3. **Then write Message**: Enter the message for the reminder.
+4. **Click "Set Reminder"**: Save the reminder and schedule it.
+
 
 ## Conclusion
 This C++ Reminder App offers an effective way to manage and set reminders for important events. It provides a practical example of handling date and time in C++, making it a valuable tool for users to keep track of their schedules and tasks.
@@ -46,8 +53,3 @@ This format gives a detailed and clear overview of your Reminder App project, hi
 
 ---
 
-## Instructions
-1. **First set Date**: Enter the date for the reminder.
-2. **Then set Time**: Enter the time for the reminder.
-3. **Then write Message**: Enter the message for the reminder.
-4. **Click "Set Reminder"**: Save the reminder and schedule it.
