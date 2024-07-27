@@ -39,9 +39,10 @@ The primary goal of this project is to provide a simple and efficient tool for s
 ## Conclusion
 This C++ Reminder App offers an effective way to manage and set reminders for important events. It provides a practical example of handling date and time in C++, making it a valuable tool for users to keep track of their schedules and tasks.
 
-[YouTube Video Link]
+[YouTube video link for the Reminder App](https://youtu.be/Og_qALth69Q?si=RBm_NKk1_WS1O6Uk)
 
-This format gives a detailed and clear overview of your Reminder App project, highlighting the key features and functionalities in an easy-to-understand manner. The [YouTube Video Link] placeholder can be updated with the actual link to your project's video.
+
+This format gives a detailed and clear overview of your Reminder App project, highlighting the key features and functionalities in an easy-to-understand manner. 
 
 ---
 
